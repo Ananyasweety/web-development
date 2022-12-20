@@ -1,0 +1,77 @@
+#contact{
+    background-color: navy;
+    color: white;
+    font-size: 20px;
+    text-align: left;   
+}
+#technical{
+    background-color: navy;
+    color: white;
+    font-size: 20px;
+    text-align: left;
+}
+#Competencies{
+    background-color: navy;
+    color: aliceblue;
+    font-size: 20px;
+    text-align: left;
+}
+#Languages{
+    background-color: navy;
+    color: aliceblue;
+    font-size: 20px;
+    text-align: left;
+}
+#education{
+    background-color: rgb(202, 162, 18);
+    color: white;
+    width: 302px;
+}
+#con2{
+    background-color:white;
+    height: 1200px;
+}
+#con3{
+    height: 100px;
+}
+#work{
+    background-color: navy;
+    color: white;
+    font-size: 20px;
+    text-align: left;
+}    
+
+#img1{
+    border-radius: 100px;
+    height: 150px;
+    width: 150px;
+    margin-left: 40px;
+}
+#education{
+    background-color: navy;
+    color: white;
+    font-size: 20px;
+    text-align: left;
+}
+#name{
+    font-style: italic;
+    font-size: 30px;
+}
+#year{
+    margin-left: 750px;
+}
+#Education{
+    background-color: navy;
+    color: white;
+    font-size: 20px;
+    text-align: left;
+}
+#Certifications{
+    background-color: navy;
+    color: white;
+    font-size: 20px;
+    text-align: left;
+}
+#pp{
+    background-color:whitesmoke;
+}
